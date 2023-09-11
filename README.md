@@ -1,4 +1,4 @@
-# Rocker buttons PCB
+# Rocker buttons board
 
 
 
