@@ -14,7 +14,7 @@ Thumbs buttons - rear view
 Go to the <a href="https://oshwlab.com/bonninr/openpipes_rocker_buttons">OSHWLab project page</a>
 
 <hr>
-Download the last Gerber (.zip) file in the <a href="https://github.com/Openpipes-org/Rocker_buttons_PCB/releases">releases</a> section.
+Download the latest Gerber (.zip) file in the <a href="https://github.com/Openpipes-org/Rocker_buttons_PCB/releases/latest">releases</a> section.
 <hr>
 
 ⚠️ Under construction
